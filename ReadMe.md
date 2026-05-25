@@ -1,135 +1,76 @@
 
-
-
-<p align="center">
-  <a href="">
-    <img src="https://github.com/utibenoah/QA_portfolio/blob/main/huy-removebg-preview-modified.png" 
-         alt="Clickable Image" 
-         width="200" 
-         height="200" 
-         style="border-radius:50%;" />
-  </a>
-
-</p>
-
-
- <h3 align="center"> Utibe Effiong</h3>
-<h5 align="center">QA Engineer</h5>
-<p align="center">utibenoaheffiong@gmail.com</p>
-<p align="center"><a href="https://github.com/utibenoah/qa_portfolio/blob/main/ReadMe.md" target="_blank">LinkedIn</a></p>
+<h1>Hi, I'm Utibe! <br/><a href="https://github.com/utibenoah/">QA Engineer</a>,and <a href="https://www.linkedin.com/in/utibenoah/">Backend Developer</a>
 
 
 
 
-
-<h2>
-  ABOUT
-</h2>
-
-Detail-oriented Software QA engineer with over 3+ years of experience in quality assurance, both manual and automated testing. Having strong knowledge of QA processes, Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and Bug Life Cycle with hands-on experience across multiple testing phases. Proficient in tools such as Playwright, Cypress, Postman, and K6. Adept at collaborating with cross-functional teams to deliver high-quality software that aligns with business requirements and user expectations.
+<h4>Aspiring Backend Developer with 1+ year experience and QA Engineer with 3+ years of experience passionate about building efficient server-side application and ensuring high-quality software delivery through manual and automated testing</h4>
 
 
 
 
-<h2>PROFESSIONAL SUMMARY</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
-### 
--  Solid understanding of API design best practices, including naming conventions, parameter usage, structured error handling, consistent response formats, HTTP endpoint organization, atomic operations, and data consistency
--  Well-versed in test case design techniques to develop comprehensive and effective test cases
--  Experienced in creating and maintaining test documentation including test plans, test cases,test scenarios and defect reports.
--  Proficient in API testing using Postman, with a focus on validating error handling, response structures, and data integration across application modules.
--  Strong knowledge of  performance testing APIs using K6, focusing on response time, throughput, and system reliability.
--  Skilled in conducting exploratory, regression, functional, end-to-end, and usability testing to validate compliance with business requirements.
--  Skilled in developing and executing end-to-end automation scripts  for efficient web application testing.
--  Excellent communication, documentation, problem-solving, and team collaboration skills
-
-
-
-
-<h2>
-  SKILLS
-</h2>
-  <b>Testing:</b> Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Exploratory Testing, End-to-End Testing, Usability Testing, Performance Testing.<br>
-  <b>Tools:</b>Playwright, Cypress, Appium, Jest, Mocha,Postman, Newman,K6, JMeter, JavaScript, TypeScript (OOP),GitHub Actions, Git, CI/CD pipelines,Grafana, Prometheus.
-
-
-
-
-<h2>WORK EXPERIENCE</h2>
-
-<b>HNG.Tech</b><br>
-QA Tester | June 2024 – September 2024 (Remote – Full-time – Nigeria)
-### HNG Boilerplate
-- Conducted API testing with Postman and used JavaScript scripts to validate the functionality and integration of the HNG Boilerplate, resulting in a 40% improvement in development workflow.
-### AI Video Transcribing & Summarization Web Application
--  Tested  API endpoints using Postman & Newman, ensuring correct error handling, response formats, and data consistency. Improved API reliability by 20% through early defect detection.
--  Executed UI verification and usability testing, ensuring seamless user interactions and boosting application quality by 30%.
--  Developed  end-to-end (E2E) automation scripts using Playwright to verify real-world scenarios, reducing production defects and enhancing user satisfaction..
--  Worked closely with DevOps to set up a CI/CD pipeline using GitHub Actions for an AI video status dashboard, enabling scheduled automated testing for faster releases.
-
-### Timbu Shop Mobile Application
--  Developed comprehensive test cases for an ecommerce application that improved defect detection, reduced regression issues and accelerated development cycles by 35%, ensuring high--  -  quality releases aligned with business requirements.
--  Execute test cases, log bugs, and write test reports.
-
-
-<b>Dealdrive Technology</b><br>
-Tester (Manual) | January 2024 – March 2024 (Remote – Contract – Nigeria)
-
-### Emergency Responses System
--  Analyze application requirements and functional specifications to design comprehensive test scenarios and test cases.
--  Performed API endpoint testing to validate the integration of data across modules, contributing to a 30% acceleration in the development cycle.
--  Perform UI verification along with functional and usability testing to ensure a seamless user experience.
--  Identify and report defects post-test execution, followed by regression testing to ensure stability of affected modules
-
-
-
-
-
-
-<h2>
-  PERSONAL PROJECT
-</h2>
-    <b><a href="https://github.com/utibenoah/api_test_automation_framwork" target="_blank">API Test Automation Framework</a> 
-</b><br>
-    This framework design ensures maintainable and readable testcode, relaible test execution with retry mechanisms and clear separtion of concern.
+- <b>File Upload Rest API (Node,Express,Cloudinary,Multer,Winston)</b>
+  - [Build file upload rest api](https://github.com/utibenoah/file_upload_api)
     
-  #### Implentation Pattern
-  - API Client; to encapsulate Http operations and session management.
-  - Custom assertions; implement using *chai assertion library* to allow testcases to focus on the intent rather than the mechanics of verifications
-  - Contract Testing; implement using *Json Schema* to test the contracts indepently of the actual implementation, ensuring that changes in one service dont break the functionality for the other.
+- <b>Cineflix-movie restful api (Node,Express,MongoDb)</b>
+  - [Movies collection restful API](https://github.com/utibenoah/cineflixs) <b>
 
-  #### Others Utilies
-  - Logging; implement using *winston.js* to collect the test execution log process
-  - CI/CD; using *github actions* to integrate the test into ci/cd pipeline and generate test report artifacts.
+<h2>📺Software QA Project</h2>
+     
+- [Boilerplate: python fast api web](https://github.com/hngprojects/hng_boilerplate_python_fastapi_web)(Hng.Tech)
+  * Conducted API testing using <b>Postman</b> to validate endpoint
+  * Performed regressiongal test to verify bug fixed
+  * Document test report
+- [AI Video and Summarizer](https://github.com/hngprojects/aivideo_be)(Hng.Tech)
+  * Performed UI test to verify the usability of the application
+  * Designed and write test scenario, and testcases
+  * Execute testcases and report bug
 
+    [Authentication Testcase](https://docs.google.com/spreadsheets/d/1NkhXPZQCUA0jo_pZyaNvbVe_nIUgq2OPFuhzdp8OQDM/edit?usp=sharing)
+    
+    <img width="1199" height="521" alt="testcase" src="https://github.com/user-attachments/assets/bf1a6e56-4bc1-4607-89a7-2d9ac8d364c1" />
 
-
-</h2>
-    <b><a href="https://github.com/utibenoah/testing_asynchronous_code
-" target="_blank">Testing Asynchronous Code</a> 
-</b><br>
-
-<h2>
-  EDUCATION
-</h2>
- 
- <div>
-    BS.c Computer Science, University of Uyo, Nigeria 
+    [Activity log Testcase](https://github.com/hngprojects/hng_boilerplate_python_fastapi_web)
+  <img width="1201" height="518" alt="activitylog" src="https://github.com/user-attachments/assets/50e26c26-9ffd-4688-b6b3-8c9ef6dd7cac" />
   
 
- </div>
+    [Bug Report](https://docs.google.com/spreadsheets/d/1A1xFFqQrkUpJqvMSKYk-ajJK1vL31DUpdAVEF7v69mc/edit?usp=sharing)
+  <img width="1179" height="528" alt="bugreport" src="https://github.com/user-attachments/assets/7a607de5-f4ac-486e-903d-448d7ecb4dab" />
 
+
+  [End to end testcase](https://docs.google.com/spreadsheets/d/1zU90o6rwYvtQucm1ismz6UE9Kr6lkWrmEhYzThrMyiU/edit?usp=sharing)
+    <img width="1177" height="520" alt="e2e" src="https://github.com/user-attachments/assets/304dc7b1-8391-49fb-962e-e834fe4a8e8a" />
+
+
+
+
+- <b>Api_test_automation_framwork (JavaScript, mocha, chai, and mochawesome)</b>
+  - [Api_test_automation_framwork](https://github.com/utibenoah/api_test_automation_framwork)
   
 
- <h2>
-  CERTIFICATIONS
-</h2>
-   *   QA Tester Certificate- HNG.Tech Internship 
- 
-![QA Tester Certificate- HNG.Tech Internship](https://github.com/utibenoah/QA_portfolio/blob/main/HNG%20Internship%2011_Utibe%20Noah_certificate_page-0001.jpg)
 
 
-  <h2>
-  COURSES
-</h2>
-   *   Quality Assurance-3MTT
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[twitter]: https://www.linkedin.com/in/utibenoah/
+[linkedin]: https://www.linkedin.com/in/utibenoah/
+
+<!--
+**utibenoah/utibenoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
