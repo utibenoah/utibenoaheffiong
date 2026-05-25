@@ -51,6 +51,10 @@
   
 
 
+<h2>Certification</h2>
+<img width="1754" height="1242" alt="HNG Internship 11_Utibe Noah_certificate_page-0001 (1)" src="https://github.com/user-attachments/assets/7da797e1-98ad-4feb-8a4a-b0a7a46a3851" />
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
