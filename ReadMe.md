@@ -51,8 +51,10 @@
   
 
 
-<h2>Certification</h2>
-<img width="1754" height="1242" alt="HNG Internship 11_Utibe Noah_certificate_page-0001 (1)" src="https://github.com/user-attachments/assets/7da797e1-98ad-4feb-8a4a-b0a7a46a3851" />
+<h2>Certifications</h2>
+<img width="500" height="350" alt="HNG Internship 11_Utibe Noah_certificate_page-0001 (1)" src="https://github.com/user-attachments/assets/7da797e1-98ad-4feb-8a4a-b0a7a46a3851" />
+<span><img width="500" height="350" alt="Utibe Noah Effiong" src="https://github.com/user-attachments/assets/90c16971-c7cb-4498-b62e-a981b25fd7c3" /></span>
+
 
 
 
